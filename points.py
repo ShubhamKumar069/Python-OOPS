@@ -39,4 +39,7 @@ p1 = Point(3, 4)
 p2 = Point(3, 2)
 
 
-p3 = p1 / p2
+p3 = p1 + p2
+p4 = p1 - p2
+p5 = p1 * p2
+p6 = p1 / p2
